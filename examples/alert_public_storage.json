@@ -1,0 +1,10 @@
+{
+  "id": "demo-001",
+  "issue_type": "Publicly exposed storage",
+  "resource": {
+    "id": "s3-001",
+    "name": "open-bucket",
+    "type": "s3"
+  },
+  "source": "demo"
+}
